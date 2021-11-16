@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "619407d6d4a381909157eacc",
+    "team": "Men's Baseball",
+    "team_abbreviation": "bsb",
+    "__v": 0
+  },
+  {
+    "_id": "619407d9d4a381909157eb2b",
+    "team": "Men's Basketball",
+    "team_abbreviation": "mbkb",
+    "__v": 0
+  },
+  {
+    "_id": "619407dcd4a381909157eb69",
+    "team": "Men's Football",
+    "team_abbreviation": "fball",
+    "__v": 0
+  },
+  {
+    "_id": "619407e7d4a381909157ecb2",
+    "team": "Men's Soccer",
+    "team_abbreviation": "msoc",
+    "__v": 0
+  },
+  {
+    "_id": "619407ebd4a381909157ed23",
+    "team": "Men's Tennis",
+    "team_abbreviation": "mten",
+    "__v": 0
+  },
+  {
+    "_id": "619407eed4a381909157ed49",
+    "team": "Women's Basketball",
+    "team_abbreviation": "wbkb",
+    "__v": 0
+  },
+  {
+    "_id": "619407f0d4a381909157ed7e",
+    "team": "Women's Golf",
+    "team_abbreviation": "wgolf",
+    "__v": 0
+  },
+  {
+    "_id": "619407f1d4a381909157ed98",
+    "team": "Women's Soccer",
+    "team_abbreviation": "wsoc",
+    "__v": 0
+  },
+  {
+    "_id": "619407f4d4a381909157edf7",
+    "team": "Women's Softball",
+    "team_abbreviation": "sball",
+    "__v": 0
+  },
+  {
+    "_id": "619407f7d4a381909157ee3e",
+    "team": "Women's Tennis",
+    "team_abbreviation": "wten",
+    "__v": 0
+  },
+  {
+    "_id": "619407f9d4a381909157ee67",
+    "team": "Women's Volleyball",
+    "team_abbreviation": "wvball",
+    "__v": 0
+  }
+]

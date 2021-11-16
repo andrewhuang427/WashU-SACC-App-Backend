@@ -1,0 +1,11 @@
+{
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "KHTML",
+        "mbkb",
+        "msoc",
+        "sball",
+        "wbkb",
+        "wsoc"
+    ]
+}
