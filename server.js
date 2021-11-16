@@ -1,5 +1,6 @@
 const express = require("express");
 const mongoose = require("mongoose");
+const cors = require("cors");
 require("dotenv").config();
 
 const EventRoutes = require("./routes/EventRoutes");
@@ -22,6 +23,13 @@ const app = express();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use(
+  cors({
+    origin: "*",
+    credentials: true, 
+    optionSuccessStatus: 200,
+  })
+);
 
 app.use("/events", EventRoutes);
 app.use("/athletes", AthleteRoutes);
