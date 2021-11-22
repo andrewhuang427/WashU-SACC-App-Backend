@@ -11,9 +11,12 @@ const Router = express.Router();
  */
 Router.route("").get((req, res) => {
   const team = req.query.team;
-  let query = PlayerModel.find({});
+  let query = PlayerModel.find({}).select(["-_id", "-__v"]);
   if (team !== undefined && team !== "") {
-    query = PlayerModel.find({ team_abbreviation: team });
+    query = PlayerModel.find({ team_abbreviation: team }).select([
+      "-_id",
+      "-__v",
+    ]);
   }
   query.exec((error, docs) => {
     if (error) {

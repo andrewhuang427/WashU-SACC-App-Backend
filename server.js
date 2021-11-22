@@ -6,6 +6,7 @@ require("dotenv").config();
 const EventRoutes = require("./routes/EventRoutes");
 const AthleteRoutes = require("./routes/AthleteRoutes");
 const TeamRoutes = require("./routes/TeamRoutes");
+const ArticleRoutes = require("./routes/ArticleRoutes");
 
 const MONGODB_URI = process.env.MONGODB_URI;
 const PORT = process.env.PORT || 3000;
@@ -26,7 +27,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(
   cors({
     origin: "*",
-    credentials: true, 
+    credentials: true,
     optionSuccessStatus: 200,
   })
 );
@@ -34,6 +35,7 @@ app.use(
 app.use("/events", EventRoutes);
 app.use("/athletes", AthleteRoutes);
 app.use("/teams", TeamRoutes);
+app.use("/news", ArticleRoutes);
 
 app.get("/", (req, res) => {
   res.send("API is running");
