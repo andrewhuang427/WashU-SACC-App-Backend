@@ -11,6 +11,7 @@ const AthleteSchema = new Schema(
     team: String,
     team_abbreviation: String,
     hometown: String,
+    high_school: String,
     number: String,
     grade: String,
     image_url: String,
