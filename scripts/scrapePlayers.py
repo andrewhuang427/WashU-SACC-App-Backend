@@ -5,13 +5,13 @@ from bs4 import BeautifulSoup
 def saveTeam(data):
     url = "http://localhost:3000/teams"
     response = requests.post(url=url, data=data)
-    print(response.text)
+    print(response)
 
 
 def savePlayer(data):
     url = "http://localhost:3000/athletes"
     response = requests.post(url=url, data=data)
-    print(response.text)
+    print(response)
 
 
 sports = [
@@ -70,6 +70,21 @@ sports = [
         "url": "https://www.washubears.com/sports/wvball/2021-22/roster",
         "team_abbreviation": "wvball",
     },
+    {
+        "sport": "Track and Field",
+        "url": "https://washubears.com/sports/track/2020-21/mwroster",
+        "team_abbreviation": "track",
+    },
+    {
+        "sport": "Swimming and Diving",
+        "url": "https://washubears.com/sports/swimdive/2021-22/mwroster",
+        "team_abbreviation": "swimdive",
+    },
+    {
+        "sport": "Cross Country",
+        "url": "https://washubears.com/sports/xc/2021-22/MWroster",
+        "team_abbreviation": "xc",
+    },
 ]
 
 detailsKey = {
@@ -89,6 +104,7 @@ for sport in sports:
     team = {}
     team["team"] = sport_name
     team["team_abbreviation"] = sport_abbreviation
+
     saveTeam(team)
 
     link = sport["url"]
@@ -134,7 +150,10 @@ for sport in sports:
                 value = parts[1]
                 player[key] = value
             else:
-                player["hometown"] = " ".join(parts[2:])
+                hometown_highschool_parts = " ".join(parts[2:]).split(" / ")
+                if len(hometown_highschool_parts) == 2:
+                    player["hometown"] = hometown_highschool_parts[0]
+                    player["high_school"] = hometown_highschool_parts[1]
 
         if name != None:
             savePlayer(player)

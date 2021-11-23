@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import datetime
 
 
-url = "https://washubears.com/landing/headlines-featured?tmpl=%2Fnews-template&ajax=true&pageSize=300&pageIndex=0&pageUrl=%2Flanding%2Fheadlines-featured&showThumb=true&showDate=true&showLeadin=true&newsLayout_initialized=true&_=1637604141832"
+url = "https://washubears.com/landing/headlines-featured?tmpl=%2Fnews-template&ajax=true&pageSize=1000&pageIndex=0&pageUrl=%2Flanding%2Fheadlines-featured&showThumb=true&showDate=true&showLeadin=true&newsLayout_initialized=true&_=1637604141832"
 
 headers = {
     "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
