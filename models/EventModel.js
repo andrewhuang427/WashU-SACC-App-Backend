@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 
 const EventSchema = new Schema(
   {
-    title: {
+    name: {
       type: String,
       required: true,
     },
@@ -12,14 +12,11 @@ const EventSchema = new Schema(
       type: String,
       required: true,
     },
-    organizer: {
-      type: String,
-    },
-    start_time: {
+    date: {
       type: Date,
     },
-    duration: {
-      type: Number,
+    time: {
+      type: String,
     },
   },
   { _id: true }

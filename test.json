@@ -1,1202 +1,146 @@
 [
   {
-    "title": "Women's Hoops Edged at Rhodes, 83-80",
-    "image_url": "https://washubears.com/sports/wbkb/2021-22/Untitled_design_-51-.png?max_width=400",
-    "link": "https://washubears.com/sports/wbkb/2021-22/releases/20211121sijy2g",
-    "date_posted": "November 21,2021"
-  },
-  {
-    "title": "Football Downed by River Falls in Inaugural Isthmus Bowl",
-    "image_url": "https://washubears.com/sports/fball/2021-22/photos/Goldberg_River_Falls.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/202111212qy7lt",
-    "date_posted": "November 21,2021"
-  },
-  {
-    "title": "Swimming and Diving Wins at Illinois Wesleyan",
-    "image_url": "https://washubears.com/sports/swimdive/2021-22/IWU_Invite.jpg?max_width=400",
-    "link": "https://washubears.com/sports/swimdive/2021-22/releases/20211121110ygi",
-    "date_posted": "November 21,2021"
-  },
-  {
-    "title": "No. 18 Men's Basketball Rolls Past Blackburn",
-    "image_url": "https://washubears.com/sports/mbkb/2021-22/photos/blackburb.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mbkb/2021-22/releases/20211120rzklb1",
-    "date_posted": "November 20,2021"
-  },
-  {
-    "title": "No. 6 Women's Soccer Ends Season Against UW-La Crosse on Penalty Kicks",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Carl_La_Crosse.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211120ojfx11",
-    "date_posted": "November 20,2021"
-  },
-  {
-    "title": "Women Finish 5th, Men Place 7th at XC National Championship",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-50-.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20211120nraqzu",
-    "date_posted": "November 20,2021"
-  },
-  {
-    "title": "Football to Play in Inaugural Isthmus Bowl on Saturday",
-    "image_url": "https://washubears.com/sports/fball/2021-22/Isthmus_Bowl_Preview_copy.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211119phwa5w",
-    "date_posted": "November 19,2021"
-  },
-  {
-    "title": "Cross Country Set to Compete in NCAA Championship Race on Saturday",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-49-.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20211119ja3g1j",
-    "date_posted": "November 19,2021"
-  },
-  {
-    "title": "No. 6 Women's Soccer to Face Wis.-La Crosse in Sweet 16",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Sweet_16_preview.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211117ogpev6",
-    "date_posted": "November 17,2021"
-  },
-  {
-    "title": "Men's Basketball Drops Road Game at Webster",
-    "image_url": "https://washubears.com/sports/mbkb/2021-22/Doyle.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mbkb/2021-22/releases/20211116xiemgj",
-    "date_posted": "November 16,2021"
-  },
-  {
-    "title": "Seven From Football Earn All-CCIW Honors",
-    "image_url": "https://washubears.com/sports/fball/2021-22/All_CCIW_copy.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211116robof2",
-    "date_posted": "November 16,2021"
-  },
-  {
-    "title": "Cesarone & Goldberg Collect Athlete of the Week Honors",
-    "image_url": "https://washubears.com/general/2021-22/Athlete_of_the_week_1116.png?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211116j1m3cr",
-    "date_posted": "November 16,2021"
-  },
-  {
-    "title": "Culver Named UAA Offensive Player of the Year, Six Bears Earn All-UAA Recognition",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/ATHL-10742_211106_ms_0096.JPG?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211115p0ea82",
-    "date_posted": "November 15,2021"
-  },
-  {
-    "title": "Five From Women's Soccer Earn All-UAA Recognition",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/photos/WSOC_All-UAA_copy.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211115jnwd1i",
-    "date_posted": "November 15,2021"
-  },
-  {
-    "title": "Football to Play in Inaugural Isthmus Bowl",
-    "image_url": "https://washubears.com/sports/fball/2021-22/photos/Isthmus_bowl_website.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211114tf25tg",
-    "date_posted": "November 14,2021"
-  },
-  {
-    "title": "No. 3 Men's Soccer Falls in NCAA Second Round at North Park",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-47-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211114r1n7dn",
-    "date_posted": "November 14,2021"
-  },
-  {
-    "title": "SWEET 16 BOUND! No. 6 Women's Soccer Tops Dominican to Win Regional",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Clayton.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211114qf264l",
-    "date_posted": "November 14,2021"
-  },
-  {
-    "title": "WashU XC Teams Officially Qualify for NCAA DIII National Championship Meet",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-46-.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20211114p5ydus",
-    "date_posted": "November 14,2021"
-  },
-  {
-    "title": "Women's Basketball Falls at Wisconsin Lutheran, 69-66",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-45-.png?max_width=400",
-    "link": "https://washubears.com/sports/wbkb/2021-22/releases/20211113z9arcj",
-    "date_posted": "November 13,2021"
-  },
-  {
-    "title": "Cross Country Teams Place Second at NCAA Midwest Regional Championship",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-44-.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20211113xedmux",
-    "date_posted": "November 13,2021"
-  },
-  {
-    "title": "No. 3 Men's Soccer Advances to NCAA Second Round with 1-0 Victory over UW-Superior",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/ATHL-10742_211106_ms_0124.JPG?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211113vyu19u",
-    "date_posted": "November 13,2021"
-  },
-  {
-    "title": "Football Defeats Carthage in Regular-Season Finale",
-    "image_url": "https://washubears.com/sports/fball/2021-22/photos/Goldberg.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211113u39meg",
-    "date_posted": "November 13,2021"
-  },
-  {
-    "title": "Cesarone Scores Twice as No. 6 Women's Soccer Downs Beloit in NCAA First Round",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/WSOC_NCAA_round_1.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211113qzrnr7",
-    "date_posted": "November 13,2021"
-  },
-  {
-    "title": "Women's Basketball Drops Season Opener to UW-La Crosse",
-    "image_url": "https://washubears.com/sports/wbkb/2021-22/Untitled_design_-43-.png?max_width=400",
-    "link": "https://washubears.com/sports/wbkb/2021-22/releases/20211112xdya4k",
-    "date_posted": "November 12,2021"
-  },
-  {
-    "title": "No. 6 Women's Soccer to Host NCAA First and Second Rounds",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/WSOC_regional.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211112q2j0t1",
-    "date_posted": "November 12,2021"
-  },
-  {
-    "title": "Shapiro, Rivas, Lamba Earn CoSIDA Academic All-District Honors",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/MSOC_WSOC_CoSIDA_District_copy.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211112i6eay2",
-    "date_posted": "November 12,2021"
-  },
-  {
-    "title": "Women's Hoops Opens 2021-22 Season Tomorrow Against UW-La Crosse",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design_-42-.png?max_width=400",
-    "link": "https://washubears.com/sports/wbkb/2021-22/releases/20211111t4m2k5",
-    "date_posted": "November 11,2021"
-  },
-  {
-    "title": "Four Bears Earn All-UAA Recognition",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/2021-11-11163666758738015_53_07.380_Graphic.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211111qky7ff",
-    "date_posted": "November 11,2021"
-  },
-  {
-    "title": "Swimming and Diving Participates in 16th Annual Hour of Power Relay",
-    "image_url": "https://washubears.com/sports/swimdive/2021-22/Hour_of_Power.jpg?max_width=400",
-    "link": "https://washubears.com/sports/swimdive/2021-22/releases/20211111po0hrz",
-    "date_posted": "November 11,2021"
-  },
-  {
-    "title": "Men's Basketball Opens Season with Buzzer-Beater Win Over Millikin",
-    "image_url": "https://washubears.com/sports/mbkb/2021-22/Jack_Nolan.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mbkb/2021-22/releases/20211110zobrvu",
-    "date_posted": "November 10,2021"
-  },
-  {
-    "title": "Exclusive UAA Championship Gear Available Now",
-    "image_url": "https://washubears.com/general/2021-22/WashU_UAA.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211103ozizly",
-    "date_posted": "November 10,2021"
-  },
-  {
-    "title": "Men's Basketball Opens Season Against Millikin on Wednesday",
-    "image_url": "https://washubears.com/sports/mbkb/2021-22/photos/MBB_Preview.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mbkb/2021-22/releases/20211109r70c6s",
-    "date_posted": "November 09,2021"
-  },
-  {
-    "title": "Four Bears Named UAA Athletes of the Week",
-    "image_url": "https://washubears.com/general/2021-22/November_8th.png?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211108tcumpv",
-    "date_posted": "November 08,2021"
-  },
-  {
-    "title": "Soccer NCAA Tournament Draws Announced",
-    "image_url": "https://washubears.com/general/2021-22/Untitled_design_-39-.png?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211108p8ddn1",
-    "date_posted": "November 08,2021"
-  },
-  {
-    "title": "Men Take Second, Women Take Third at Chicago's D3 Shootout",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/photos/D3_shootout_day_2.jpg?max_width=400",
-    "link": "https://washubears.com/sports/swimdive/2021-22/releases/202111070k0pov",
-    "date_posted": "November 06,2021"
-  },
-  {
-    "title": "Champions! No. 3 Men's Soccer Wins First Outright UAA Title Since 1999",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-38-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211106zwxidi",
-    "date_posted": "November 06,2021"
-  },
-  {
-    "title": "No. 6 Women's Soccer Battles No. 16 Chicago to 1-1 Draw",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/photos/WSOC_UAA.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211106wmn5jp",
-    "date_posted": "November 06,2021"
-  },
-  {
-    "title": "Football Falls to No. 1 North Central",
-    "image_url": "https://washubears.com/sports/fball/2021-22/FB_vs_NCC.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211106w3lvbf",
-    "date_posted": "November 06,2021"
-  },
-  {
-    "title": "Volleyball Sweeps Case Western in UAA Championship Fifth-Place Match",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design_-37-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211106qquw68",
-    "date_posted": "November 06,2021"
-  },
-  {
-    "title": "Swimming and Diving Has Strong Start to D3 Shootout at Chicago",
-    "image_url": "https://washubears.com/sports/swimdive/2021-22/D3_shootout_day_1.jpg?max_width=400",
-    "link": "https://washubears.com/sports/swimdive/2021-22/releases/20211105ypm5a5",
-    "date_posted": "November 05,2021"
-  },
-  {
-    "title": "Volleyball Falls to Carnegie Mellon in UAA Quarterfinals, Defeats Rochester in Consolation Semis",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/VB_.jpeg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211105w1is9k",
-    "date_posted": "November 05,2021"
-  },
-  {
-    "title": "XC Teams Post Perfect Scores at Red/White Invitational",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-36-.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20211104td1nma",
-    "date_posted": "November 04,2021"
-  },
-  {
-    "title": "No. 7 Men's Soccer Moves into First Place in UAA Standings, Record Fourth Straight Shutout",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-34-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211031pi3n5y",
-    "date_posted": "October 31,2021"
-  },
-  {
-    "title": "No. 3 Women's Soccer Suffers First Loss to No. 11 Case Western Reserve",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Wsoc_vs_Case.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211031jwlqca",
-    "date_posted": "October 31,2021"
-  },
-  {
-    "title": "Volleyball Splits Baden Invite Matches on Senior Day",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-33-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211030xrcer9",
-    "date_posted": "October 30,2021"
-  },
-  {
-    "title": "No. 5 Women's XC Claims Seventh Straight UAA Title, Men Earn Runner-Up Finish",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-32-.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20211030vaflb2",
-    "date_posted": "October 30,2021"
-  },
-  {
-    "title": "Football Improves to 6-1 in CCIW play with win over Carroll",
-    "image_url": "https://washubears.com/sports/fball/2021-22/Whitaker_vs_Carroll.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211030tn4j2q",
-    "date_posted": "October 30,2021"
-  },
-  {
-    "title": "No. 7 Men's Soccer Improves to 10-2-1, Earns 3-0 Shutout at Carnegie Mellon",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-30-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211029xzaxc6",
-    "date_posted": "October 29,2021"
-  },
-  {
-    "title": "No. 3 Women's Soccer Clinches Third Consecutive Outright UAA Title",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design_-29-.png?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211029ui437l",
-    "date_posted": "October 29,2021"
-  },
-  {
-    "title": "Volleyball Senior Spotlight",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design_-28-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211029h43lni",
-    "date_posted": "October 29,2021"
-  },
-  {
-    "title": "Conner Named UAA Defensive Athlete of the Week",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/photos/Oct._25.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211030u10kix",
-    "date_posted": "October 26,2021"
-  },
-  {
-    "title": "Football Dominates Millikin, 55-13",
-    "image_url": "https://washubears.com/sports/fball/2021-22/Goldberg_Millikin.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211023z7my7z",
-    "date_posted": "October 23,2021"
-  },
-  {
-    "title": "No. 8 Men's Soccer Shuts Out Millikin on the Road, 2-0",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-25-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211023lr2isw",
-    "date_posted": "October 23,2021"
-  },
-  {
-    "title": "Balanced Attack Leads Volleyball to Fourth Straight Win with Sweep at Greenville",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design_-24-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211022wv3sof",
-    "date_posted": "October 22,2021"
-  },
-  {
-    "title": "Eka Jose Named Finalist for NCAA Woman of the Year",
-    "image_url": "https://washubears.com/general/2021-22/Eka_Top_9_copy.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211021ptyj0d",
-    "date_posted": "October 21,2021"
-  },
-  {
-    "title": "Volleyball Defeats Illinois College for Third Consecutive Win",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design_-23-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211020yyhm9n",
-    "date_posted": "October 20,2021"
-  },
-  {
-    "title": "No. 3 Women's Soccer Shuts Out Illinois Wesleyan in Non-Conference Match",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/photos/WSOC_Ill_Wes.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211020xu7h8m",
-    "date_posted": "October 20,2021"
-  },
-  {
-    "title": "Flynn Named United Soccer Coaches National Player of the Week",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/photos/Flynn_Natty_POW_Website_copy.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211020m46bcy",
-    "date_posted": "October 20,2021"
-  },
-  {
-    "title": "Featured in the Record: A Brand New Season",
-    "image_url": "https://washubears.com/sports/fball/2021-22/photos/Football.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211020iis7tn",
-    "date_posted": "October 20,2021"
-  },
-  {
-    "title": "No. 14 Golf Takes Fifth at Division III Fall Invite",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/Mascot.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20211019pfpghr",
-    "date_posted": "October 19,2021"
-  },
-  {
-    "title": "No. 14 Golf In Sixth After Day Two of Division III Fall Invite",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/WGolf_d3_preview.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20211018sfc8hc",
-    "date_posted": "October 18,2021"
-  },
-  {
-    "title": "Four Bears Receive UAA Athlete of the Week Honors",
-    "image_url": "https://washubears.com/general/2021-22/UAA_AOW.png?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211018rsqk93",
-    "date_posted": "October 18,2021"
-  },
-  {
-    "title": "Volleyball Records 126 Kills in Two Matches as Bears Sweep UAA Round Robin #3",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-22-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211017vep5pn",
-    "date_posted": "October 17,2021"
-  },
-  {
-    "title": "No. 14 Golf Cards 318 on Day One of Division III Preview",
-    "image_url": "https://washubears.com/sports/wgolf/2019-20/photos/19Mascot4.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20211017uektxd",
-    "date_posted": "October 17,2021"
-  },
-  {
-    "title": "Rivas Scores Twice, No. 9 Men's Soccer Shuts Out Brandeis 2-0 on Senior Day",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-20-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211017t8ardn",
-    "date_posted": "October 17,2021"
-  },
-  {
-    "title": "Flynn Scores Twice as No. 3 Women's Soccer Defeats Brandeis on Senior Day",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/WSOC_sr.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211017nkio8b",
-    "date_posted": "October 17,2021"
-  },
-  {
-    "title": "Football Scores 31 Unanswered Points to Defeat Augustana",
-    "image_url": "https://washubears.com/sports/fball/2021-22/Okmin.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211016pkkrr1",
-    "date_posted": "October 16,2021"
-  },
-  {
-    "title": "Cross Country Teams Post Top-Five Finishes at Augustana Invitational",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-19-.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20211016l4rnsk",
-    "date_posted": "October 16,2021"
-  },
-  {
-    "title": "Li/Ramireddy Conclude Play at ITA Cup",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-18-.png?max_width=400",
-    "link": "https://washubears.com/sports/mten/2021-22/releases/202110161xtrfm",
-    "date_posted": "October 16,2021"
-  },
-  {
-    "title": "No. 9 Men's Soccer Falls 2-1 to No. 7 NYU",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-16-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/202110161h5zs7",
-    "date_posted": "October 16,2021"
-  },
-  {
-    "title": "Flynn Scores Twice as No. 3 Women's Soccer Takes Down NYU",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/WSOC_NYU.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211015wtdirs",
-    "date_posted": "October 15,2021"
-  },
-  {
-    "title": "Li/Ramireddy Win Opening Round Match at ITA Cup, Earn All-American Honors",
-    "image_url": "https://washubears.com/sports/mten/2021-22/Untitled_design_-15-.png?max_width=400",
-    "link": "https://washubears.com/sports/mten/2021-22/releases/20211014vh15w9",
-    "date_posted": "October 14,2021"
-  },
-  {
-    "title": "WashU Athlete Ally Chapter To Be Honored at Athlete Ally Action Awards",
-    "image_url": "https://washubears.com/general/2021-22/Athlete_Ally.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211013p099qd",
-    "date_posted": "October 13,2021"
-  },
-  {
-    "title": "No. 24 Golf Concludes Lady Red Wolves Classic",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/photos/W_golf.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20211012oe0m7x",
-    "date_posted": "October 12,2021"
-  },
-  {
-    "title": "Martin Named UAA Defensive Athlete of the Week",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Oct._12.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211012gasg5r",
-    "date_posted": "October 12,2021"
-  },
-  {
-    "title": "No. 24 Golf Wraps Up Day One of Lady Red Wolves Classic",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/Warren.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20211011v7ohtv",
-    "date_posted": "October 11,2021"
-  },
-  {
-    "title": "No. 9 Men's Soccer Battles No. 14 Emory to 0-0 Draw",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/photos/Msoc_Emory.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211010tu5922",
-    "date_posted": "October 10,2021"
-  },
-  {
-    "title": "Late Goal Lifts No. 3 Women's Soccer Past Emory",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Emory_celly.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211010taxsmr",
-    "date_posted": "October 10,2021"
-  },
-  {
-    "title": "Volleyball Defeats Greenville, Drops Match with IWU at WashU Invite",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design_-12-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211009ufe788",
-    "date_posted": "October 09,2021"
-  },
-  {
-    "title": "Football Defeats Illinois Wesleyan, 38-22, at Home",
-    "image_url": "https://washubears.com/sports/fball/2021-22/FB_IWU.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211009trxsth",
-    "date_posted": "October 09,2021"
-  },
-  {
-    "title": "No. 23 Volleyball Falls to No. 9 UW-Whitewater in Four Sets",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/2021100902c44d",
-    "date_posted": "October 09,2021"
-  },
-  {
-    "title": "Three from Swimming and Diving Earn Athlete of the Week Honors",
-    "image_url": "https://washubears.com/general/2021-22/Oct._4_copy.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20211005lkr1t3",
-    "date_posted": "October 05,2021"
-  },
-  {
-    "title": "Ramireddy, Li Edged in ITA Regionals Doubles Championship Match",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/619A8326.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mten/2021-22/releases/20211003sn4r8n",
-    "date_posted": "October 03,2021"
-  },
-  {
-    "title": "No. 23 Volleyball Splits Two Matches at UAA Round Robin #2",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Untitled_design_-11-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20211003p5wd89",
-    "date_posted": "October 03,2021"
-  },
-  {
-    "title": "Football Defeated by No. 5 Wheaton",
-    "image_url": "https://washubears.com/sports/fball/2021-22/FB_Wheaton.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20211002zlrjke",
-    "date_posted": "October 02,2021"
-  },
-  {
-    "title": "Ramireddy, Li Advance to Doubles Final at ITA Regionals",
-    "image_url": "https://washubears.com/sports/mten/2021-22/619A8762.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mten/2021-22/releases/20211002z0grcg",
-    "date_posted": "October 02,2021"
-  },
-  {
-    "title": "Men's Soccer Opens UAA Play with 2-0 Shutout Victory at No. 17 Rochester",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-10-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20211002ou1g4j",
-    "date_posted": "October 02,2021"
-  },
-  {
-    "title": "Cross Country Teams Earn Second Place Finish at Dan Huston Invite",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Untitled_design_-9-.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20211002mcf1n2",
-    "date_posted": "October 02,2021"
-  },
-  {
-    "title": "No. 3 Women's Soccer Shuts Out Rochester in UAA Opener",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/WSOC_Rochester.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20211002kfytff",
-    "date_posted": "October 02,2021"
-  },
-  {
-    "title": "Swimming and Diving has Strong Showing at Mizzou Showdown",
-    "image_url": "https://washubears.com/sports/swimdive/2021-22/Swim_vs_Mizzou.jpg?max_width=400",
-    "link": "https://washubears.com/sports/swimdive/2021-22/releases/20211001zy1pmh",
-    "date_posted": "October 01,2021"
-  },
-  {
-    "title": "Men's Tennis Opens ITA Regionals with Strong Performance",
-    "image_url": "https://washubears.com/sports/mten/2021-22/Untitled_design_-8-.png?max_width=400",
-    "link": "https://washubears.com/sports/mten/2021-22/releases/20211001umaqly",
-    "date_posted": "October 01,2021"
-  },
-  {
-    "title": "Whitaker Named Semifinalist for Campbell Trophy",
-    "image_url": "https://washubears.com/sports/fball/2021-22/Andrew_Whitaker_Campbell_Trophy_Semifinalist_copy.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20210930o4dtzx",
-    "date_posted": "September 30,2021"
-  },
-  {
-    "title": "No. 24 Golf Opens NCAA Preview",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/photos/Golf.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20210927qf25hr",
-    "date_posted": "September 27,2021"
-  },
-  {
-    "title": "Five Bears Earn Athlete of the Week Recognition",
-    "image_url": "https://washubears.com/general/2021-22/Sept._27_copy.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210927pafkuj",
-    "date_posted": "September 27,2021"
-  },
-  {
-    "title": "Women's Tennis Concludes ITA Regionals",
-    "image_url": "https://washubears.com/sports/wten/2021-22/photos/ITA_Tennis_day_1.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wten/2021-22/releases/20210926uq979a",
-    "date_posted": "September 26,2021"
-  },
-  {
-    "title": "Early Goal Pushes No. 3 Women's Soccer Past Rose-Hulman",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Flynn.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210926q7puqz",
-    "date_posted": "September 26,2021"
-  },
-  {
-    "title": "Gao and Heidbreder Advance to Doubles Semifinals at ITA Regionals",
-    "image_url": "https://washubears.com/sports/wten/2021-22/photos/Gaoooo.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wten/2021-22/releases/20210925spqzl4",
-    "date_posted": "September 25,2021"
-  },
-  {
-    "title": "Men's Tennis Wins Both Flighted Draws at WashU 1,2,3 Doubles Invite",
-    "image_url": "https://washubears.com/sports/mten/2021-22/Untitled_design_-6-.png?max_width=400",
-    "link": "https://washubears.com/sports/mten/2021-22/releases/20210925snrv9s",
-    "date_posted": "September 25,2021"
-  },
-  {
-    "title": "Football Takes Down Elmhurst, 27-7, in CCIW Action",
-    "image_url": "https://washubears.com/sports/fball/2021-22/Morrissey.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20210925rz1fcd",
-    "date_posted": "September 25,2021"
-  },
-  {
-    "title": "No. 23 Volleyball Earns Two Sweeps at Rose-Hulman Invitational",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-5-.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/2021092517t7bb",
-    "date_posted": "September 25,2021"
-  },
-  {
-    "title": "Men's Soccer shuts out Wisconsin-Whitewater at home, 2-0",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-3-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20210924zv4wv0",
-    "date_posted": "September 24,2021"
-  },
-  {
-    "title": "Swimming and Diving Opens Season Against SLU",
-    "image_url": "https://washubears.com/sports/swimdive/2021-22/photos/Swim_vs_SLU.jpg?max_width=400",
-    "link": "https://washubears.com/sports/swimdive/2021-22/releases/20210924zd4onz",
-    "date_posted": "September 24,2021"
-  },
-  {
-    "title": "Women's Tennis Has Strong Showing at Day One of ITA Regionals",
-    "image_url": "https://washubears.com/sports/wten/2021-22/photos/huynh.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wten/2021-22/releases/20210924x098nl",
-    "date_posted": "September 24,2021"
-  },
-  {
-    "title": "Two Second-Half Goals Lift No. 3 Women's Soccer Past Wheaton",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Untitled-1.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210924sdyei5",
-    "date_posted": "September 24,2021"
-  },
-  {
-    "title": "Jose Named Top 30 Honoree for NCAA Woman of the Year Award",
-    "image_url": "https://washubears.com/general/2021-22/Eka_Top_30_copy.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210923lgdbfr",
-    "date_posted": "September 23,2021"
-  },
-  {
-    "title": "Bears roll past Greenville in 3-0 shutout victory",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design_-2-.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20210920xx7cq3",
-    "date_posted": "September 20,2021"
-  },
-  {
-    "title": "Miles, Kuo, Vartanian Earn Athlete of the Week Honors",
-    "image_url": "https://washubears.com/general/2021-22/photos/Sept._20_copy.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210920q4ia3l",
-    "date_posted": "September 20,2021"
-  },
-  {
-    "title": "No. 19 Volleyball Edged in Five-Set Battle with No. 13 Chicago",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/photos/Bach.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20210919srhmxz",
-    "date_posted": "September 19,2021"
-  },
-  {
-    "title": "Three players score as No. 5 Women's Soccer Defeats DePauw",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Carl.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210919qeqqr6",
-    "date_posted": "September 19,2021"
-  },
-  {
-    "title": "No. 19 Volleyball Splits First Day of UAA Round Robin No. 1",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/photos/VB_RR.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20210918z05dux",
-    "date_posted": "September 18,2021"
-  },
-  {
-    "title": "Football Claims Dominant Win Over North park",
-    "image_url": "https://washubears.com/sports/fball/2021-22/photos/FB_NPU.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20210918x6ov7m",
-    "date_posted": "September 18,2021"
-  },
-  {
-    "title": "No. 2 Women’s Cross Country Dominates Tom Holland Invitational, No. 5 Men Earn Second-Place Finish\xa0",
-    "image_url": "https://washubears.com/sports/xc/2021-22/photos/XC.png?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20210918vvk0ma",
-    "date_posted": "September 18,2021"
-  },
-  {
-    "title": "No. 24 Golf Wins IWU Classic",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/photos/Wgolf.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20210918vob7ig",
-    "date_posted": "September 18,2021"
-  },
-  {
-    "title": "No. 5 Women's Soccer Blanks UW-Whitewater",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/photos/WSOC2.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210918n15o2l",
-    "date_posted": "September 18,2021"
-  },
-  {
-    "title": "Men's Soccer Game Against Wheaton Postponed",
-    "image_url": "https://washubears.com/general/2021-22/photos/Francis.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20210918ip8n98",
-    "date_posted": "September 18,2021"
-  },
-  {
-    "title": "No. 24 Golf Tied for Second After Day One of IWU Classic",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/W_golf.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20210917vs9sbh",
-    "date_posted": "September 17,2021"
-  },
-  {
-    "title": "No. 5 Women's Soccer Defeats Millikin, 3-1",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Ari_Miles.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210915zff0sh",
-    "date_posted": "September 15,2021"
-  },
-  {
-    "title": "Men's Soccer Drops Road Contest at Hope",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/Untitled_design.png?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20210915t0ize5",
-    "date_posted": "September 15,2021"
-  },
-  {
-    "title": "Volleyball Match Against Webster Canceled",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/photos/Field_House.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20210914oxjjwh",
-    "date_posted": "September 14,2021"
-  },
-  {
-    "title": "Culver, Sells, Ramireddy Named UAA Athletes of the Week",
-    "image_url": "https://washubears.com/general/2021-22/Sept._13.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210913qneklj",
-    "date_posted": "September 13,2021"
-  },
-  {
-    "title": "Men's Tennis Wraps up River Forest Invitational",
-    "image_url": "https://washubears.com/sports/mten/2021-22/photos/MTEN.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mten/2021-22/releases/20210912qewkrl",
-    "date_posted": "September 12,2021"
-  },
-  {
-    "title": "No. 4 Women's Soccer Dominates Carthage",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Riley_Alvarez.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210912pwhi0d",
-    "date_posted": "September 12,2021"
-  },
-  {
-    "title": "No. 18 Volleyball Defeats Cal Lutheran to Close Out East To West Battle",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/photos/VB2.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20210911yhgj6i",
-    "date_posted": "September 11,2021"
-  },
-  {
-    "title": "Men's Soccer Defeats No. 12 North Park, 3-2",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/photos/Msoc.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20210911wiobma",
-    "date_posted": "September 11,2021"
-  },
-  {
-    "title": "Women's Soccer Battles Loras to 0-0 Draw",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Wsoc.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210911vrgedy",
-    "date_posted": "September 11,2021"
-  },
-  {
-    "title": "Men's Tennis Opens Fall Slate at River Forest Collegiate Invitational",
-    "image_url": "https://washubears.com/sports/mten/2021-22/Tennis.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mten/2021-22/releases/20210910y2a9qx",
-    "date_posted": "September 10,2021"
-  },
-  {
-    "title": "Volleyball Splits on First Day of East To West Battle",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/VB.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20210910rjwzog",
-    "date_posted": "September 10,2021"
-  },
-  {
-    "title": "Harris Announced as Assistant Director of Athletics Communications",
-    "image_url": "https://washubears.com/general/2021-22/Harris_hiring_copy.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210910g0gzd0",
-    "date_posted": "September 10,2021"
-  },
-  {
-    "title": "Sansoucie Hired as Swimming and Diving Assistant Coach",
-    "image_url": "https://washubears.com/sports/swimdive/2021-22/Sansoucie_hiring_copy.jpg?max_width=400",
-    "link": "https://washubears.com/sports/swimdive/2021-22/releases/20210909hvqudy",
-    "date_posted": "September 09,2021"
-  },
-  {
-    "title": "Davis Hired as Full-Time Assistant Track and Field Coach",
-    "image_url": "https://washubears.com/sports/track/2021-22/Davis_hiring_copy.jpg?max_width=400",
-    "link": "https://washubears.com/sports/track/2021-22/releases/20210908obs4jp",
-    "date_posted": "September 08,2021"
-  },
-  {
-    "title": "Rivas Scores Twice as Men's Soccer Defeats Webster",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/photos/Sergio.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20210907ywndbp",
-    "date_posted": "September 07,2021"
-  },
-  {
-    "title": "Rivas Named UAA Offensive Player of the Week",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/photos/Rivas_AOW.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20210907pjagp7",
-    "date_posted": "September 07,2021"
-  },
-  {
-    "title": "Women's Soccer Game Against Webster Canceled",
-    "image_url": "https://washubears.com/general/2021-22/photos/Francis.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210906gjbjnd",
-    "date_posted": "September 06,2021"
-  },
-  {
-    "title": "Football Topped by Chicago in Season Opener",
-    "image_url": "https://washubears.com/sports/fball/2021-22/photos/Matt_Rush.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/202109054gy7ya",
-    "date_posted": "September 05,2021"
-  },
-  {
-    "title": "Golf Defeats William Woods in I-70 Duel",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/photos/Gwynnie_Lee.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/202109052jv2fp",
-    "date_posted": "September 05,2021"
-  },
-  {
-    "title": "Women's Soccer Opens Season with 3-1 Victory at Fontbonne",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/photos/Jess_Shapiro.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/2021090526mhbu",
-    "date_posted": "September 05,2021"
-  },
-  {
-    "title": "Late Goal Pushes Men's Soccer Past Rose-Hulman",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/photos/Nolan_Wolf.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/202109051gys9j",
-    "date_posted": "September 05,2021"
-  },
-  {
-    "title": "Volleyball Sweeps to Close Out Bear Invitational",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Bohrer2021.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/2021090510c4pe",
-    "date_posted": "September 05,2021"
-  },
-  {
-    "title": "Volleyball Splits on First Day of Bear Invitational",
-    "image_url": "https://washubears.com/sports/wvball/2019-20/photos/Bach_8web.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20210903zei0k8",
-    "date_posted": "September 03,2021"
-  },
-  {
-    "title": "Season Preview: Football",
-    "image_url": "https://washubears.com/sports/fball/2021-22/Team_Pic.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20210903j8nffj",
-    "date_posted": "September 03,2021"
-  },
-  {
-    "title": "Men's Soccer Tops Illinois Wesleyan 3-0 in Season Opener",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/photos/Illinois_Wesleyan.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/202109020itb3n",
-    "date_posted": "September 01,2021"
-  },
-  {
-    "title": "Volleyball Opens Season With Win Over Fontbonne",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/Fontbonne.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20210901z7k9rn",
-    "date_posted": "September 01,2021"
-  },
-  {
-    "title": "Cross Country Starts Season Strong Against Greenville",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/photos/9.1_Greenville_Recap.jpg?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20210901jwczge",
-    "date_posted": "September 01,2021"
-  },
-  {
-    "title": "Season Preview: Men's Soccer",
-    "image_url": "https://washubears.com/sports/msoc/2021-22/photos/Preview.jpg?max_width=400",
-    "link": "https://washubears.com/sports/msoc/2021-22/releases/20210901j69ypk",
-    "date_posted": "September 01,2021"
-  },
-  {
-    "title": "Season Preview: Women's Soccer",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Cesarone.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210831y4boo2",
-    "date_posted": "August 31,2021"
-  },
-  {
-    "title": "Season Preview: Volleyball",
-    "image_url": "https://washubears.com/sports/wvball/2021-22/photos/Season_Preview.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2021-22/releases/20210831pn72c2",
-    "date_posted": "August 31,2021"
-  },
-  {
-    "title": "Season Preview: Cross Country",
-    "image_url": "https://washubears.com/sports/xc/2021-22/Preview.jpg?max_width=400",
-    "link": "https://washubears.com/sports/xc/2021-22/releases/20210831if58in",
-    "date_posted": "August 31,2021"
-  },
-  {
-    "title": "WashU Athletics Releases Game Day Protocols for Fall Competitions",
-    "image_url": "https://washubears.com/COVID_protocols.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210826o6d0q2",
-    "date_posted": "August 26,2021"
-  },
-  {
-    "title": "WashU Athletics Announces Enhancements to Facilities and Equipment",
-    "image_url": "https://washubears.com/general/2021-22/Enhancements.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210826hhme3m",
-    "date_posted": "August 26,2021"
-  },
-  {
-    "title": "WashU Department of Athletics & Recreation Announces Softball & IM Project",
-    "image_url": "https://washubears.com/general/2021-22/Logo.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210819lysj2t",
-    "date_posted": "August 19,2021"
-  },
-  {
-    "title": "Rosen Named Head Baseball Coach at Rose-Hulman",
-    "image_url": "https://washubears.com/sports/bsb/2021-22/Rosen_Resignation.jpg?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2021-22/releases/20210818jstp14",
-    "date_posted": "August 18,2021"
-  },
-  {
-    "title": "Reinhardt Named Interim Head Golf Coach",
-    "image_url": "https://washubears.com/sports/wgolf/2021-22/Reinhardt_Interim_Soccer_Hiring.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2021-22/releases/20210818e41jzb",
-    "date_posted": "August 18,2021"
-  },
-  {
-    "title": "Gabbert Hired as Interim Head Women's Soccer Coach",
-    "image_url": "https://washubears.com/information/directory/Gabbert_Interim_Soccer_Hiring.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210817rdvyyh",
-    "date_posted": "August 17,2021"
-  },
-  {
-    "title": "Azama Announced as Associate Vice Chancellor for Student Affairs",
-    "image_url": "https://washubears.com/general/2021-22/AJA_Vice_Chancellor.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210817kzwc07",
-    "date_posted": "August 17,2021"
-  },
-  {
-    "title": "Eka Jose Named UAA Nominee for NCAA Woman of the Year",
-    "image_url": "https://washubears.com/sports/track/2020-21/Eka_Jose_WOY.jpg?max_width=400",
-    "link": "https://washubears.com/sports/track/2020-21/releases/20210816l73j9n",
-    "date_posted": "August 16,2021"
-  },
-  {
-    "title": "Five Earn CoSIDA Academic All-America Honors",
-    "image_url": "https://washubears.com/sports/track/2020-21/CoSIDA_Track_AA.jpg?max_width=400",
-    "link": "https://washubears.com/sports/track/2020-21/releases/20210811lekp0p",
-    "date_posted": "August 11,2021"
-  },
-  {
-    "title": "Softball Adds 10 First-Years to Roster",
-    "image_url": "https://washubears.com/sports/sball/2021-22/photos/Softball_Incoming_Class.jpg?max_width=400",
-    "link": "https://washubears.com/sports/sball/2021-22/releases/20210810qcbmez",
-    "date_posted": "August 10,2021"
-  },
-  {
-    "title": "Football Announces Incoming Class of 37",
-    "image_url": "https://washubears.com/sports/fball/2021-22/Football_Incoming_Class.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2021-22/releases/20210810ml4grj",
-    "date_posted": "August 10,2021"
-  },
-  {
-    "title": "WashU Holds Annual W Club Golf Scramble",
-    "image_url": "https://washubears.com/general/2021-22/New_Project.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210806kfjvqx",
-    "date_posted": "August 06,2021"
-  },
-  {
-    "title": "Lusky Hired as Assistant Athletic Trainer",
-    "image_url": "https://washubears.com/general/2021-22/Amanda_Lusky_hiring.jpg?max_width=400",
-    "link": "https://washubears.com/general/2021-22/releases/20210806fvt2qh",
-    "date_posted": "August 06,2021"
-  },
-  {
-    "title": "Persky, van der Sman Earn CoSIDA Academic All-America Honors",
-    "image_url": "https://washubears.com/sports/mten/2020-21/CoSIDA_At-Large_All-America.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mten/2020-21/releases/20210805lcsj2k",
-    "date_posted": "August 05,2021"
-  },
-  {
-    "title": "Baseball Earns ABCA Team Academic Excellence Award",
-    "image_url": "https://washubears.com/sports/bsb/2020-21/ABCA_Academic_-1-.jpg?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2020-21/releases/20210802fskrzd",
-    "date_posted": "August 02,2021"
-  },
-  {
-    "title": "Five From Men's Basketball Named to NABC Honors Court",
-    "image_url": "https://washubears.com/sports/mbkb/2020-21/NABC_Academic.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mbkb/2020-21/releases/20210730o4q7bz",
-    "date_posted": "July 30,2021"
-  },
-  {
-    "title": "Conlon Resigns as Women’s Soccer Head Coach",
-    "image_url": "https://washubears.com/sports/wsoc/2021-22/Conlon_Resignation.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2021-22/releases/20210730h3my1v",
-    "date_posted": "July 30,2021"
-  },
-  {
-    "title": "Track and Field Teams, 30 Individuals Earn All-Academic Honors",
-    "image_url": "https://washubears.com/sports/track/2020-21/Track_academic.jpg?max_width=400",
-    "link": "https://washubears.com/sports/track/2020-21/releases/20210729lungwn",
-    "date_posted": "July 29,2021"
-  },
-  {
-    "title": "Loutos Named CoSIDA Academic All-American",
-    "image_url": "https://washubears.com/sports/bsb/2020-21/Baseball_Academic_All-America.jpg?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2020-21/releases/20210727hzwj1y",
-    "date_posted": "July 27,2021"
-  },
-  {
-    "title": "Women’s Golf Earns WGCA Scholar GPA Award",
-    "image_url": "https://washubears.com/sports/wgolf/2020-21/WGCA_team_academic.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2020-21/releases/20210723jt5b5x",
-    "date_posted": "July 23,2021"
-  },
-  {
-    "title": "WashU Student-Athletes Post Cumulative 3.68 GPA in 2020-21",
-    "image_url": "https://washubears.com/general/2020-21/Academic.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210722g2vgsn",
-    "date_posted": "July 22,2021"
-  },
-  {
-    "title": "Konrad Kozlowski '19 Awarded NCAA Postgraduate Scholarship",
-    "image_url": "https://washubears.com/sports/mten/2020-21/Kozlowski_postgrad_scholarship.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mten/2020-21/releases/20210721ig3zyd",
-    "date_posted": "July 21,2021"
-  },
-  {
-    "title": "Volleyball Receives USMC/AVCA Team Academic Award",
-    "image_url": "https://washubears.com/sports/wvball/2020-21/AVCA_Academic_-1-.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2020-21/releases/20210720jfe7dp",
-    "date_posted": "July 20,2021"
-  },
-  {
-    "title": "Six Earn CoSIDA Academic All-District Honors",
-    "image_url": "https://washubears.com/sports/track/2020-21/photos/CoSIDA_track_-1-.jpg?max_width=400",
-    "link": "https://washubears.com/sports/track/2020-21/releases/20210716nsxwjs",
-    "date_posted": "July 16,2021"
-  },
-  {
-    "title": "Men’s and Women’s Tennis Earn ITA Academic Awards",
-    "image_url": "https://washubears.com/sports/wten/2020-21/New_Project_-1-.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wten/2020-21/releases/20210716jh4wnt",
-    "date_posted": "July 16,2021"
-  },
-  {
-    "title": "Gao Named ITA Central Region Rookie of the Year",
-    "image_url": "https://washubears.com/sports/wten/2020-21/Gao_ITA_Rookie_of_the_Year.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wten/2020-21/releases/20210715hd5a5p",
-    "date_posted": "July 15,2021"
-  },
-  {
-    "title": "Hurley, Whitaker Earn CoSIDA Academic All-America Honors",
-    "image_url": "https://washubears.com/sports/fball/2020-21/CoSIDA_Football_Academic_All-America.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2020-21/releases/20210714indwf2",
-    "date_posted": "July 14,2021"
-  },
-  {
-    "title": "Durbin Drafted by Braves, Loutos Signs with Cardinals",
-    "image_url": "https://washubears.com/sports/bsb/2020-21/photos/Durbin_drafted_-2-.jpg?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2020-21/releases/20210713qefju6",
-    "date_posted": "July 13,2021"
-  },
-  {
-    "title": "Lee, Oakley, Wilson Named WGCA All-American Scholars",
-    "image_url": "https://washubears.com/sports/wgolf/2020-21/WGCA_academic.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wgolf/2020-21/releases/20210713kkzy4n",
-    "date_posted": "July 13,2021"
-  },
-  {
-    "title": "Van der Sman, Katz, Persky Earn CoSIDA Academic All-District Honors",
-    "image_url": "https://washubears.com/general/2020-21/CoSIDA_At-Large_All-District.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210712ma9594",
-    "date_posted": "July 12,2021"
-  },
-  {
-    "title": "Seven Individuals, Teams Earn CSCAA Scholar All-America Honors",
-    "image_url": "https://washubears.com/sports/swimdive/2020-21/CSCAA_Academic.jpg?max_width=400",
-    "link": "https://washubears.com/sports/swimdive/2020-21/releases/20210709kq4lrz",
-    "date_posted": "July 09,2021"
-  },
-  {
-    "title": "Mockett, Greenfield Earn CoSIDA Academic All-America Honors",
-    "image_url": "https://washubears.com/general/2020-21/Wsoc_Academic_All_America_-1-.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2020-21/releases/20210708oz78to",
-    "date_posted": "July 08,2021"
-  },
-  {
-    "title": "Detwiler Hired as Student-Athlete Development and Experience Coordinator",
-    "image_url": "https://washubears.com/general/2020-21/Detwiler_hiring.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210708iskyb2",
-    "date_posted": "July 08,2021"
-  },
-  {
-    "title": "Van Kirk, Loutos, Anderson Earn CoSIDA Academic All-District Honors",
-    "image_url": "https://washubears.com/sports/bsb/2020-21/Baseball_Academic_All-District.jpg?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2020-21/releases/20210707h0cbrk",
-    "date_posted": "July 07,2021"
-  },
-  {
-    "title": "Bloom Named ABCA/ATEC Central Region Coach of the Year",
-    "image_url": "https://washubears.com/sports/bsb/2020-21/Pat_Bloom_COY.jpg?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2020-21/releases/20210706jxma4x",
-    "date_posted": "July 06,2021"
-  },
-  {
-    "title": "WashU Scholar-Champions Honored in Virtual Awards Celebration",
-    "image_url": "https://washubears.com/general/2020-21/Awards_Celly_Recap_-1-.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210630j4jvpf",
-    "date_posted": "June 30,2021"
-  },
-  {
-    "title": "Watch the Virtual 35th Annual Scholar-Champion Awards Celebration",
-    "image_url": "https://washubears.com/general/2020-21/Awards_Celly_-1-.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210628gc3fvg",
-    "date_posted": "June 28,2021"
-  },
-  {
-    "title": "Hutcheson Chosen for NCAA Pathway Program",
-    "image_url": "https://washubears.com/general/2020-21/Hutcheson_Pathway.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210623h51w28",
-    "date_posted": "June 23,2021"
-  },
-  {
-    "title": "Three from Men's Tennis Earn ITA All-America Honors",
-    "image_url": "https://washubears.com/sports/mten/2020-21/ITA_Tennis.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mten/2020-21/releases/20210622jyioae",
-    "date_posted": "June 22,2021"
-  },
-  {
-    "title": "67 Named to CCIW Academic All-Conference Team",
-    "image_url": "https://washubears.com/sports/fball/2020-21/Football_CCIW.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2020-21/releases/20210621p2hzh1",
-    "date_posted": "June 21,2021"
-  },
-  {
-    "title": "WashU Receives Four NACMA \"Best of\" Awards",
-    "image_url": "https://washubears.com/general/2020-21/NACMA.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210618ladq1e",
-    "date_posted": "June 18,2021"
-  },
-  {
-    "title": "Virtual Awards Celebration Slated for June 28",
-    "image_url": "https://washubears.com/general/2020-21/Awards_Website_Graphic.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210616ghxrra",
-    "date_posted": "June 16,2021"
-  },
-  {
-    "title": "WashU Golf Scramble and Virtual Tournament Set for July",
-    "image_url": "https://washubears.com/general/2020-21/New_Project.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210615hel246",
-    "date_posted": "June 15,2021"
-  },
-  {
-    "title": "Hurley, Whitaker, Christensen Earn CoSIDA Academic All-District Honors",
-    "image_url": "https://washubears.com/sports/fball/2020-21/FB_CoSIDA_all_district.jpg?max_width=400",
-    "link": "https://washubears.com/sports/fball/2020-21/releases/20210611l2jqxq",
-    "date_posted": "June 11,2021"
-  },
-  {
-    "title": "Knapp Named CoSIDA Academic All-District",
-    "image_url": "https://washubears.com/sports/wvball/2020-21/KnappWeb.png?max_width=400",
-    "link": "https://washubears.com/sports/wvball/2020-21/releases/20210610mgxm9c",
-    "date_posted": "June 10,2021"
-  },
-  {
-    "title": "WashU Awarded NCAA Division III Ethnic Minorities and Women's Internship Grant",
-    "image_url": "https://washubears.com/general/2020-21/NCAA_Grant_2.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210610id1pft",
-    "date_posted": "June 10,2021"
-  },
-  {
-    "title": "Three Selected to World Series All-Tournament Team",
-    "image_url": "https://washubears.com/sports/bsb/2020-21/files/AllTournTeam.png?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2020-21/releases/20210608wekxso",
-    "date_posted": "June 09,2021"
-  },
-  {
-    "title": "Five Earn All-UAA Recognition",
-    "image_url": "https://washubears.com/sports/wten/2020-21/photos/Background.jpg?max_width=400",
-    "link": "https://washubears.com/sports/mten/2020-21/releases/20210608prt1pd",
-    "date_posted": "June 08,2021"
-  },
-  {
-    "title": "Gao, Persky, Wanger Receive All-UAA Honors",
-    "image_url": "https://washubears.com/sports/wten/2020-21/photos/New_Project_-1-.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wten/2020-21/releases/20210608km1otu",
-    "date_posted": "June 08,2021"
-  },
-  {
-    "title": "WashU to Hold In-Person Camps This Summer",
-    "image_url": "https://washubears.com/general/2020-21/New_Project.jpg?max_width=400",
-    "link": "https://washubears.com/general/2020-21/releases/20210608gqqd0u",
-    "date_posted": "June 08,2021"
-  },
-  {
-    "title": "Fong, Loutos, Van Kirk Named All-America",
-    "image_url": "https://washubears.com/sports/bsb/2020-21/WSGraphic.png?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2020-21/releases/20210607q64d3r",
-    "date_posted": "June 07,2021"
-  },
-  {
-    "title": "Greenfield, Mockett Earn CoSIDA Academic All-District Honors",
-    "image_url": "https://washubears.com/sports/wsoc/2020-21/CoSIDA_AA.jpg?max_width=400",
-    "link": "https://washubears.com/sports/wsoc/2020-21/releases/20210607gn6hvm",
-    "date_posted": "June 07,2021"
-  },
-  {
-    "title": "Baseball Wraps Record Breaking Season",
-    "image_url": "https://washubears.com/sports/bsb/2020-21/DunnWeb.png?max_width=400",
-    "link": "https://washubears.com/sports/bsb/2020-21/releases/20210606tc9gkq",
-    "date_posted": "June 06,2021"
+    "_id": "61a9a37657828bac3efcc625",
+    "name": "Men's Basketball at Hendrix",
+    "description": "Come out to support the Men's Basketball on 12-03-2021",
+    "date": "2021-12-03T06:00:00.000Z",
+    "time": "5:30 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37657828bac3efcc627",
+    "name": "Women's Basketball at Wis.-Superior",
+    "description": "Come out to support the Women's Basketball on 12-03-2021",
+    "date": "2021-12-03T06:00:00.000Z",
+    "time": "7:30 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37657828bac3efcc629",
+    "name": "Women's Basketball at Principia/Berea",
+    "description": "Come out to support the Women's Basketball on 12-04-2021",
+    "date": "2021-12-04T06:00:00.000Z",
+    "time": "TBA",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37657828bac3efcc62b",
+    "name": "Women's Basketball at Fontbonne",
+    "description": "Come out to support the Women's Basketball on 12-08-2021",
+    "date": "2021-12-08T06:00:00.000Z",
+    "time": "6:00 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37657828bac3efcc62d",
+    "name": "Men's Basketball at Fontbonne",
+    "description": "Come out to support the Men's Basketball on 12-08-2021",
+    "date": "2021-12-08T06:00:00.000Z",
+    "time": "8:00 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37657828bac3efcc62f",
+    "name": "Women's Basketball at Millikin",
+    "description": "Come out to support the Women's Basketball on 12-19-2021",
+    "date": "2021-12-19T06:00:00.000Z",
+    "time": "4:00 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc631",
+    "name": "Women's Basketball at Greenville",
+    "description": "Come out to support the Women's Basketball on 01-01-2021",
+    "date": "2021-01-01T06:00:00.000Z",
+    "time": "2:00 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc633",
+    "name": "Swimming and Diving at McKendree",
+    "description": "Come out to support the Swimming and Diving on 01-08-2021",
+    "date": "2021-01-08T06:00:00.000Z",
+    "time": "12:00 p.m.",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc635",
+    "name": "Men's Basketball at Chicago",
+    "description": "Come out to support the Men's Basketball on 01-08-2021",
+    "date": "2021-01-08T06:00:00.000Z",
+    "time": "1:00 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc637",
+    "name": "Women's Basketball at Chicago",
+    "description": "Come out to support the Women's Basketball on 01-08-2021",
+    "date": "2021-01-08T06:00:00.000Z",
+    "time": "3:00 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc639",
+    "name": "Men's Basketball at Emory",
+    "description": "Come out to support the Men's Basketball on 01-14-2021",
+    "date": "2021-01-14T06:00:00.000Z",
+    "time": "5:30 PM EST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc63b",
+    "name": "Women's Basketball at Emory",
+    "description": "Come out to support the Women's Basketball on 01-14-2021",
+    "date": "2021-01-14T06:00:00.000Z",
+    "time": "7:30 PM EST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc63d",
+    "name": "Swimming and Diving at DePauw",
+    "description": "Come out to support the Swimming and Diving on 01-22-2021",
+    "date": "2021-01-22T06:00:00.000Z",
+    "time": "12:00 p.m.",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc63f",
+    "name": "Track & Field at Triangular",
+    "description": "Come out to support the Track & Field on 01-22-2021",
+    "date": "2021-01-22T06:00:00.000Z",
+    "time": "",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc641",
+    "name": "Men's Basketball at Brandeis",
+    "description": "Come out to support the Men's Basketball on 01-23-2021",
+    "date": "2021-01-23T06:00:00.000Z",
+    "time": "12:00 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc643",
+    "name": "Women's Basketball at Brandeis",
+    "description": "Come out to support the Women's Basketball on 01-23-2021",
+    "date": "2021-01-23T06:00:00.000Z",
+    "time": "2:00 PM CST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc645",
+    "name": "Men's Basketball at Case",
+    "description": "Come out to support the Men's Basketball on 01-30-2021",
+    "date": "2021-01-30T06:00:00.000Z",
+    "time": "12:00 PM EST",
+    "__v": 0
+  },
+  {
+    "_id": "61a9a37757828bac3efcc647",
+    "name": "Women's Basketball at Case",
+    "description": "Come out to support the Women's Basketball on 01-30-2021",
+    "date": "2021-01-30T06:00:00.000Z",
+    "time": "2:00 PM EST",
+    "__v": 0
   }
 ]
